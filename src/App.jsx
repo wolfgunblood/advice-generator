@@ -23,7 +23,15 @@ const App = () => {
     }
   }
 
-  useEffect(() => {fetchAdvice()},[])
+  // useEffect(() => {fetchAdvice()},[])
+  useEffect(() => {
+    const intervalId = setInterval(fetchAdvice, 2000)
+
+    return () => {
+      clearInterval(intervalId)
+    }
+  }, [])
+
   return (
     <div className='advice-container'>
       <h4 className="advice-id">{'ADVICE #' + advice.id}</h4>
