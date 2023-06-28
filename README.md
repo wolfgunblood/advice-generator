@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/wolfgunblood/advice-generator)
-- Live Site URL: [Demo](https://wolfgunblood.github.io/advice-generator/)
+- Solution URL: [Solution Repositry](https://github.com/wolfgunblood/advice-generator)
+- Live Site URL: [Live Demo](https://wolfgunblood.github.io/advice-generator/)
 
 ## My process
 
