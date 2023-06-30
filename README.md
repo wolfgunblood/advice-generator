@@ -62,7 +62,7 @@ This code snippet demonstrates how to fetch data from an API, update the state, 
 
 ## Author
 
-- Website - [Jalaj Doraiburu](https://wolfgunblood.github.io/portfolio/)
+- Website - [Jalaj](https://wolfgunblood.github.io/portfolio/)
 - Frontend Mentor - [@wolfgunblood](https://www.frontendmentor.io/profile/wolfgunblood)
 - Twitter - [@jalaj_dorai](https://twitter.com/jalaj_dorai)
 
